@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\sotni\source\repos\Server\main.cpp(71,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Server.vcxproj -> C:\Users\sotni\source\repos\Server\x64\Debug\Server.exe
